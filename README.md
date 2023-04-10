@@ -7,7 +7,7 @@ For weights, message me.
 
 ![Testing on videos](PPE_detection_YOLOv7/ppe.gif)
 
-2.Weopon detection. See the gif. 
+2.Weopon detection.  
 
 ![Testing on images and videos](/Weapon_detection_YOLOv7/weapons.gif)
 
