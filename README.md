@@ -12,6 +12,8 @@ For weights, message me.
 
 2.Weopon detection.
 
+![Testing on images](/Weapon_detection_YOLOv7/weapons.gif)
+
 ![image](https://user-images.githubusercontent.com/90163078/230812031-1e7c3611-b71a-428c-a7eb-df125a6c8235.png)
 
-![image](https://user-images.githubusercontent.com/90163078/230812225-2620f298-6cef-4399-8c8e-e8412707894f.png)
+
