@@ -10,10 +10,10 @@ For weights, message me.
 
 ![image](https://user-images.githubusercontent.com/90163078/222940853-9c62742c-adff-4138-9b08-1afc915c2a6c.png)
 
-2.Weopon detection.
+2.Weopon detection. See the gif. 
 
 ![Testing on images](/Weapon_detection_YOLOv7/weapons.gif)
 
-![image](https://user-images.githubusercontent.com/90163078/230812031-1e7c3611-b71a-428c-a7eb-df125a6c8235.png)
+
 
 
