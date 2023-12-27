@@ -1,5 +1,5 @@
 # python.crafts
-My projects for vlog.
+My projects
 
 <H1 align="center">Fire Detection using YOLOv8</H1>
 
